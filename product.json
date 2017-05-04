@@ -1,10 +1,10 @@
 [
     {
         "title": "Shopzon",
-        "desc": "使用的技术栈有:React+React-router+axios+redux+React-redux+Redux-thunk+SCSS 做的一个响应式的网站，与后台交互，包含登录、注册、退出功能",
+        "desc": "使用Laravel框架,JS,Ajax,开发的电子购物网站，实现了前台商品浏览,搜索，查看，收藏，购买以及用户注册，登录，注销和修改资料。后台用户管理，订单管理，购物车管理，友情链接管理，网站配置管理，商品管理等功能。",
         "imgName": "1",
         "demoAddress": "resume1",
-        "codeAddress": "laravel"
+        "codeAddress": "Shopzon"
     },
     {
         "title": "个人博客2demo",
